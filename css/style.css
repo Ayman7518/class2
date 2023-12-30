@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+}
+P{
+	margin: 0;
+	font-size: 20px;
+}
+.container{
+margin: 0 auto;
+width: 1200px;
+display: flex;
+
+}
+.column{
+	flex-basis: 33.33%;
+padding: 40px 20px ;
+display: flex;
+text-align: center;
+background-color:#f7eeee;
+border: 1px solid darkred ;
+}
+
+
+.boxOne{
+}
+
+
+
+.boxTwo{
+
+}
+
+
+.boxThree{
+
+}
+
